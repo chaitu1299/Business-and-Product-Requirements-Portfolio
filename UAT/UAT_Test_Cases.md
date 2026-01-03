@@ -1,5 +1,4 @@
 UAT Test Cases
 
-Sample User Acceptance Test cases for regulated systems.
-
-Test Case: Artwork approval workflow validation.
+Test Case 1: Artwork approval with valid signature → approval saved with audit trail  
+Test Case 2: Missing signature → submission blocked
