@@ -1,8 +1,15 @@
-Business Analysis and Product Analysis portfolio focused on
-pharmaceutical and regulated software systems.
+Business & Product Requirements Portfolio (Pharmaceutical Systems)
 
-Includes:
+Contains Business Analysis and Product Analysis artifacts for regulated pharma software.
+
+Scope:
+- FDA-regulated software systems
+- Track & Trace (DSCSA)
+- Artwork management
+- Compliance-driven enterprise applications
+
+Artifacts:
 - SRS documents
-- User stories
+- User Stories
 - Process workflows
 - UAT test cases
