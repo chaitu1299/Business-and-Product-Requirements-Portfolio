@@ -1,6 +1,8 @@
 User Stories
 
-Sample user stories for pharmaceutical software systems.
+User Story: As a Regulatory Reviewer, I want to approve artwork digitally, so that approvals are audit compliant.
 
-As a Regulatory User, I want to review artwork
-so that labeling complies with FDA guidelines.
+Acceptance Criteria:
+- Signature required
+- Timestamp logged
+- Mandatory comments if rejected
